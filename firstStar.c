@@ -24,7 +24,8 @@ int main(int argc, void* argv[])
     }
     const char possibleChars[] = "0123456789";
     
-    while(input !=NULL)
+    //while(input !=NULL)
+    while(1)
     {
         printf("line count: %d\n", lineCount);
     
